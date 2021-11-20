@@ -1,0 +1,21 @@
+In order to view our map click here: https://craiglyday.com/
+This link will take you to our working version that is posted on Craig's website.
+
+*NOTE* - Map might not always be the main page, so follow the steps on the site
+in order to find the current map version.
+
+*ALTERNATIVELY* - You can simply download the current map on github and 
+unzip the files on your desktop. Then double click on the index.html file.
+From there you can view the map in its entirety without using the website. 
+From here you can also view the working code. *MAKE SURE THE STYLE.CSS IS IN THE SAME FOLDER*
+
+Our files for our maps are stored here: https://github.com/s-rigney
+Here you can find our map versions -with update summaries. 
+There are three files: index.html, style.css, and this Read Me!
+
+Description: This map displays the percentage of active voters 
+in the 2020 elections for the GOP vs Democrat in the United States 
+by county vs the current unemployment rate for each county.
+The GOP vs Democrat is expressed through red and blue respectively.
+The unemployment rate is expressed through county extrusion height,
+which itself is based on polygon based geojson data.
